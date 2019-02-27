@@ -8,7 +8,7 @@ void main()
  {
   while(a>9)
   {
-    n=n/10;
+    a=a/10;
     i++;
   }
  printf("total digit %d",i+1);
